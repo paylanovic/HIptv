@@ -1,6 +1,6 @@
 # HIptv
 
-Android TV için IPTV oynatıcı: TiviMate düzeni, kendi görünümü.
+Android TV için IPTV oynatıcı.
 
 HIptv yalnızca bir oynatıcıdır; kanal, oynatma listesi ya da içerik sağlamaz. Yasal olarak erişebildiğiniz Xtream, M3U veya Stalker kaynaklarınızı kendiniz eklersiniz.
 
@@ -13,6 +13,4 @@ HIptv yalnızca bir oynatıcıdır; kanal, oynatma listesi ya da içerik sağlam
 
 HIptv açılışta yeni bir sürüm olup olmadığına bakar. Varsa "Güncelleme var" kartı çıkar; Yükle'ye basınca indirir ve Android'in kurulum onayını açar. İlk güncellemede Android, HIptv'nin uygulama yüklemesine izin vermenizi ister. Ayarlar'daki "Güncellemeleri denetle" ile elle de bakabilirsiniz.
 
-## Lisans
-
-HIptv, [OwnTV](https://github.com/ahXN00/OwnTV) üzerine kurulmuştur ve onun gibi GNU Genel Kamu Lisansı sürüm 3 ile dağıtılır ([LICENSE](LICENSE)). Kaynak kodunu isteyenlere veririz: GitHub üzerinden paylanovic ile iletişime geçin.
+Paylanovic
